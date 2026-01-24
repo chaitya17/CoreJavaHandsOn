@@ -1,4 +1,4 @@
-package com.chaitanya.corejava.day1;
+package com.chaitanya.corejava.day1_Serialization;
 
 import java.io.*;
 
