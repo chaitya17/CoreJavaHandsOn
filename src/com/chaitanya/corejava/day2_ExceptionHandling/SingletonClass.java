@@ -1,4 +1,4 @@
-package com.chaitanya.corejava.day2;
+package com.chaitanya.corejava.day2_ExceptionHandling;
 
 //Eager Singleton
 public class SingletonClass {

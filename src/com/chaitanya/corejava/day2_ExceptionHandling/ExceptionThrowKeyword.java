@@ -1,4 +1,4 @@
-package com.chaitanya.corejava.day2;
+package com.chaitanya.corejava.day2_ExceptionHandling;
 
 public class ExceptionThrowKeyword {
 
